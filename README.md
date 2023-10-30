@@ -1,4 +1,4 @@
-Soy Alejandra Villarroel, una apasionada desarrolladora Full Stack de 26 años con una reciente graduación de un bootcamp de renombre en tecnología. Mi enfoque en el desarrollo web y mi naturaleza creativa me han permitido explorar y comprender tanto el lado técnico como el artístico de la programación.
+Soy Alejandra Villarroel, una apasionada desarrolladora Full Stack con una reciente graduación de un bootcamp de renombre en tecnología. Mi enfoque en el desarrollo web y mi naturaleza creativa me han permitido explorar y comprender tanto el lado técnico como el artístico de la programación.
 
 Durante mi tiempo en el bootcamp de HENRY, adquirí una sólida comprensión de las tecnologías modernas que impulsan la web, lo que me convierte en una profesional versátil capaz de trabajar en diversos entornos y proyectos. Mi capacidad para abordar desafíos desde múltiples perspectivas me ha ayudado a encontrar soluciones innovadoras y eficientes en situaciones complejas.
 
